@@ -34,6 +34,6 @@ Exploring concepts for my thesis on 3D/VR applications in automotive engineering
 ## Getting Started
 ```bash
 git clone https://github.com/yourusername/tolerance-chain-visualizer
-cd tolerance-chain-visualizer
+cd tolerance-visualizer
 pip install -r requirements.txt
 python src/main.py
