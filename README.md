@@ -6,10 +6,10 @@ Exploring concepts for my thesis on 3D/VR applications in automotive engineering
 ## Features Roadmap
 
 ### ✅ Base Features (PySide6 + Pandas)
-- [ ] Main GUI with menu bar and toolbar
-- [ ] CSV/Excel data import/export with Pandas
-- [ ] Interactive data table visualization
-- [ ] Basic project structure and error handling
+- [x] Main GUI with menu bar and toolbar
+- [x] CSV/Excel data import/export with Pandas
+- [x] Interactive data table visualization
+- [x] Basic project structure and error handling
 
 ### 🚧 Intermediate Features
 - [ ] Tolerance calculations (worst-case analysis)
