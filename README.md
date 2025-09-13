@@ -37,3 +37,9 @@ git clone https://github.com/yourusername/tolerance-chain-visualizer
 cd tolerance_visualizer
 pip install -r requirements.txt
 python src/main.py
+```
+
+After installing you can check if everything has been installed correctly by running:
+```bash
+    python -c "import PySide6; import pandas; import matplotlib; print('✅ All libraries installed successfully!')"
+```
